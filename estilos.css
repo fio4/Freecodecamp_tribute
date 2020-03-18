@@ -1,0 +1,39 @@
+*{
+    font-family: 'Bellota', cursive;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.capa{
+    background-color: lightgoldenrodyellow;
+    padding: 30px;
+    margin-top: 50px;
+}
+.titulo, .subtitulo{
+    text-align: center;
+}
+.titulo{
+    color: darkblue;
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+.subtitulo{
+    margin-top: 1px;
+}
+
+.main-image{
+    max-width: 450px;
+    display: block;
+    margin: 0 auto;
+
+}
+li{
+    margin-top: 10px;
+}
+.footer{
+    text-align: center;
+}
